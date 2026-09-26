@@ -1,0 +1,8 @@
+name: Scooph1
+description: A Granblue Fantasy Versus Rising Archipelago
+
+game: Manual_GBVSR Archipelago_TonionTheOnion
+
+Manual_GBVSR Archipelago_TonionTheOnion:
+    progression_balancing: 50
+    accessibility: items
