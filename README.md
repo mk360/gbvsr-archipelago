@@ -1,10 +1,16 @@
 ## How to set up the GBVSR Manual
-- Open the [Host Game](https://archipelago.gg/uploads) page in Archipelago.gg, and upload the zip file in this repository. This will make Archipelago host the multiworld without any extra setup from your part.
+- Download the `.apworld` file and the `.yaml` player template file.
+- Download the [Archipelago Client](https://github.com/ArchipelagoMW/Archipelago/releases/tag/0.6.7). The multiworld has been generated using the version 0.6.7.
+- The changelog is pretty long, so you need to scroll down and find this "Assets" section as pictured. Download and install the "Setup Archipelago" exe.
+![](image.png)
+- Place the player file in the `Players` directory of your Archipelago installation. Each player has one yaml, and as such, you should copy-paste and edit the player names inside the files, as many times as needed.
+- Drag-and-drop the `.apworld` into Archipelago. This will install the game and will allow you to generate your players' multiworld.
+- Find and click the `Generate Multiworld` option. Take note of where it generates the built `.zip` archive.
+- Open the [Host Game](https://archipelago.gg/uploads) page in Archipelago.gg, and upload the zip file you obtained. This will make Archipelago host the multiworld without any extra setup from your part.
 - Create a new room, and take note of the "You can connect" message. Copy the command in single quotes.
 ![alt text](image-5.png)
 
 ## How to play the Manual
-
 - Download the [Archipelago Client](https://github.com/ArchipelagoMW/Archipelago/releases/tag/0.6.7). The multiworld has been generated using the version 0.6.7.
 - The changelog is pretty long, so you need to scroll down and find this "Assets" section as pictured. Download and install the "Setup Archipelago" exe.
 ![](image.png)
